@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **21104410055** 🦕 |
+| Nama Lengkap | **Kharisma Dinda Amareta** 🦕|
 | Kelas | TI-4B |
