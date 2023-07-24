@@ -3,7 +3,7 @@
 |  |  |
 |--|--|
 |NIM|*21104410055*|
-|Nama Lengkap|*Kharisma Dinda Amareta*|
+|Nama Lengkap|*Kharisma Dinda Amareta* 🦕|
 |Kelas|TI-4B|
 |Dosen Pengampu|[Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/mrhmt80)
 
